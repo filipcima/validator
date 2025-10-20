@@ -1,5 +1,5 @@
 # validator
-
+Tohle je novy popis v readme
 <div align="center">
   <!-- Github Actions -->
   <img src="https://github.com/Keats/validator/workflows/ci/badge.svg" alt="actions status" />
